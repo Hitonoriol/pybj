@@ -1,0 +1,6 @@
+__pycache__
+build
+dist
+build.bat
+pybj.dat
+pybj.spec
